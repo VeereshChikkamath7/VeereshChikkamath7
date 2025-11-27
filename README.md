@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python for Data Analysis, Pandas and PowerBI for data visualization.**
 
-- 💬 Ask me about ** Python, SQL, Machine Learning**
+- 💬 Ask me about **Python, SQL, Machine Learning**
 
 - 📫 How to reach me **veereshc0704@gmail.com**
 
