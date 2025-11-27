@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Veeresh Chikkamath</h1>
 <h3 align="center">Exploring the world of Data Science from Karnataka, India</h3>
 
-- 🌱 I’m currently learning **Python for Data Analysis, Pandas, and Tableau for data visualization.**
+- 🌱 I’m currently learning **Python for Data Analysis, Pandas and PowerBI for data visualization.**
 
-- 💬 Ask me about **C, Python, SQL**
+- 💬 Ask me about ** Python, SQL, Machine Learning**
 
 - 📫 How to reach me **veereshc0704@gmail.com**
 
